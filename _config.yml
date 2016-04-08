@@ -1,0 +1,28 @@
+name: drmobius
+favicon: null
+layout_spectrum: 0.22376809385605156
+typography_spectrum: 0.3846474173478782
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.18485936662182212
+  lightness: 0.8606503317132592
+  saturation: 0.4167281617410481
+  rhythmicContrast: 0.6538332684431225
+purpose: []
